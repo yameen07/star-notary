@@ -2,8 +2,6 @@
 
 Project Implementation : yameen khan
 
-The project is based on Udacity Nano degree BlockChain Developer Project3.
-
 In this project, you will build a Star Registry Service that allows users to claim ownership of their favorite star in the night sky using private blockchain.
 
 ## Steps to follow
